@@ -46,4 +46,17 @@ footer {
     margin: -8px;
 }
 
-
+.PortalButton {
+    background-color: #ffffff;
+    border: solid #c6c6c6 2.5px;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: #c6c6c6;
+    font-size: 20px;
+    margin: 5px 50px;
+    cursor: pointer;
+    box-shadow: 0 8px #c6c6c6;
+}
