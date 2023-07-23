@@ -60,3 +60,9 @@ footer {
     cursor: pointer;
     box-shadow: 0 8px #c6c6c6;
 }
+
+body2 {
+    background-color:black;
+    color:FFFFFF;
+    margin: 25px;
+}
