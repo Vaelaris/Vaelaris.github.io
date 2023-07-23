@@ -23,7 +23,7 @@ a:active {
 }
 
 h1 {
-    color: #black;
+    color: #ffffff;
 }
 
 body {
@@ -35,7 +35,6 @@ header {
   text-align: center;
   font-family: "Lugrasimo", monospace; "Comic Sans MS";
   margin:25px;
-  color: black;
   background-image: "2kmarbleredone.png";
   background-repeat: no-repeat;
   background-size: cover;
@@ -65,8 +64,8 @@ footer {
 }
 
 .body2 {
-    background-image: url("2kmarbleredone.png");
     background-color:#000000;
+    color:#ffffff;
     margin: 50px 25px 25px 0px;
     padding: 15px 25px;
    
