@@ -36,7 +36,8 @@ body {
 
 header {
   text-align: center;
-  font-family: "Lugrasimo", monospace; "Comic Sans MS"
+  font-family: "Lugrasimo", monospace; "Comic Sans MS";
+  padding: 5px
   /* Within font-family, you can specify a list of fonts, with each successive font being a fallback if the previous one cannot be loaded. It is best practice to end the list with a generic font name, which lets the browser select an appropriate fallback. */
 }
 
