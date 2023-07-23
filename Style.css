@@ -35,6 +35,7 @@ header {
   text-align: center;
   font-family: "Lugrasimo", monospace; "Comic Sans MS";
   margin:25px;
+  background-image: "background.png";
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -63,7 +64,6 @@ footer {
 }
 
 .body2 {
-    background-image: url('background.png');
     background-color:#000000;
     color:#ffffff;
     margin: 50px 25px 25px 0px;
