@@ -22,17 +22,13 @@ a:active {
     text-decoration: none;
 }
 
-body {
-    background-color: #160045;
-    background-image: "2kmarbleredone.png";
-}
-
 h1 {
     color: #ffffff;
 }
 
 body {
-    color: #ffffff;
+    background-image: url('2kmarbleredone.png');
+    color: #160045;
 }
 
 header {
