@@ -27,7 +27,7 @@ h1 {
 }
 
 body {
-    background-image: url('2kmarbleredone.png');
+    background-image: url('background.png');
     color: #160045;
 }
 
@@ -35,7 +35,7 @@ header {
   text-align: center;
   font-family: "Lugrasimo", monospace; "Comic Sans MS";
   margin:25px;
-  background-image: "2kmarbleredone.png";
+  background-image: "background.png";
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
