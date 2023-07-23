@@ -64,5 +64,6 @@ footer {
 .body2 {
     background-color:#000000;
     color:#ffffff;
-    margin: 100px 25px 25px 0px;
+    margin: 50px 25px 25px 0px;
+    padding:5px;
 }
